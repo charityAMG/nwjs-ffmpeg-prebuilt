@@ -12,7 +12,7 @@
 	//Build ffmpeg x86
 	npx nwjs-ffmpeg-prebuilt --arch x86
 	
-	//Build ffmpeg x86
+	//Build ffmpeg x64
 	npx nwjs-ffmpeg-prebuilt --arch x64
 
 #### Or
